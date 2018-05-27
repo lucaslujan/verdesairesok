@@ -4611,7 +4611,7 @@ body {
   background-color: #efefef; }
 
 .fondo {
-  color: #ccc; }
+  color: #efefef; }
 
 .verdeaires {
   color: #00752f; }
@@ -4624,5 +4624,9 @@ body {
 
 .pb-5, .py-5 {
   padding-bottom: 0 !important; }
+
+.dropdown-menu {
+  background-color: #efefef;
+  opacity: 0.8; }
 
 /*# sourceMappingURL=mdb.css.map */

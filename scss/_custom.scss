@@ -2,7 +2,7 @@
 body{
   background-color: #efefef;
 }
-.fondo{ color: #ccc;}
+.fondo{ color: #efefef;}
 .verdeaires { color: #00752f}
 
 .btn-verdesaires{
@@ -11,3 +11,6 @@ body{
 .btn-verdesaires:hover{color: black;}
 
 .pb-5, .py-5{padding-bottom: 0 !important;}
+
+.dropdown-menu
+  {background-color: #efefef; opacity: 0.8;}
